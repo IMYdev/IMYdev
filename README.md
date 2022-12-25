@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Imran
 - 👀 I’m interested in Flutter, Kotlin, Android and Linux
-- 🌱 I’m currently learning Javascript, Flutter, Kotlin and much more to come
+- 🌱 I’m currently learning Javascript, Flutter, Kotlin
 - 📫 You can reach me at: omranmansour096@gmail.com
 
 <!---
