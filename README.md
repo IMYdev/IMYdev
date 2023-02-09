@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Imran
-- 👀 I’m interested in Flutter, Kotlin, Android and Linux
-- 🌱 I’m currently learning Javascript, Flutter, Kotlin
-- 📫 You can reach me at: omranmansour096@gmail.com
+- 👀 I’m interested in Android and Linux
+- 🌱 I’m currently learning Java, C and Kotlin
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi, I’m Imran;I’m interested in Android and Linux;I’m currently learning Java, C and Kotlin)](https://git.io/typing-svg)
 
 <!---
 IJoseph23/IJoseph23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
