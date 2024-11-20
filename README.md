@@ -9,5 +9,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ---
 
-[![GitHub Streak](https://gh.imy.com.ly?user=IMYdev&theme=transparent&hide_border=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-[![IMY's GitHub stats](https://stats.gh.imy.com.ly/api?username=IMYdev&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://gh.imy.com.ly?user=IMYdev&theme=transparent&hide_border=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)[![IMY's GitHub stats](https://stats.gh.imy.com.ly/api?username=IMYdev&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
